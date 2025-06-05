@@ -1,0 +1,1 @@
+export const LogoUrl = 'http://localhost:5173/public/'
