@@ -9,6 +9,7 @@ import Main from './assets/components/Main/Main';
 import Dashboard from './assets/components/Dashboard/Dashboard';
 import DashboardJobs from './assets/components/Dashboard/DashboardMenu';
 import JobDetails from './assets/components/Jobs/SingleJobs';
+// ho gya lodu
 function App() {
   return (
     <>
